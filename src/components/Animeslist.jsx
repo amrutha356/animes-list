@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useEffect } from "react";
-import wishlist from "../images/wishlist.png"
+
 
 const Animeslist = ({animes}) => {
                    

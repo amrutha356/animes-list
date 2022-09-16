@@ -5,10 +5,8 @@
   }
 
   .nav{
-  
-
     background-color:aliceblue;
-    max-width: 1500px;
+    max-width: 100px;
     height: 120px;
     margin:auto;
     display: flex;
@@ -16,16 +14,10 @@
     align-items: center;
   }
 
-  .nav img{
-      width:100px;
-      height: 120px;
+  .nav-form{
+    padding-right: 1000px;
   }
-  .nav input{
-    width:250px;
-    height: 40px;
-    border-radius: 8px;
-    border: solid 1px white;
-  }
+  
   .nav button{
     width: 130px;
     height: 30px;
@@ -37,7 +29,7 @@
 
   .home-content{
     background-color: beige;
-    max-width: 1500px;
+    max-width: 2000px;
     margin: auto;
     padding: 15px;
     
